@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Banglore House Price.iml" filepath="$PROJECT_DIR$/.idea/Banglore House Price.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Book Recomender System/.idea/Book Recomender System.iml" filepath="$PROJECT_DIR$/../Book Recomender System/.idea/Book Recomender System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fashion Recommender System/.idea/Fashion Recommender System.iml" filepath="$PROJECT_DIR$/../Fashion Recommender System/.idea/Fashion Recommender System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hypothyroid Classification/.idea/Hypothroid Classification.iml" filepath="$PROJECT_DIR$/../Hypothyroid Classification/.idea/Hypothroid Classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Movie Recommender System/.idea/Movie Recommender System.iml" filepath="$PROJECT_DIR$/../Movie Recommender System/.idea/Movie Recommender System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../car price Prediction/.idea/car price Prediction.iml" filepath="$PROJECT_DIR$/../car price Prediction/.idea/car price Prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
